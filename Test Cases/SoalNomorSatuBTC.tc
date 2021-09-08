@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SoalNomorSatuBTC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>65794cc0-95f9-4395-921f-2a055167004b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>97603296-2526-482c-8e31-b50691ebec65</id>
+      <masked>false</masked>
+      <name>Sub_Menu</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>54d30174-4b31-4015-8341-e17279da6675</id>
+      <masked>false</masked>
+      <name>Check_Merk</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>44d4c8d3-d0e6-4357-a508-730f233fdae5</id>
+      <masked>false</masked>
+      <name>Baris_Produk</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>791303ab-0247-4a1f-b0f2-e7e047b854e8</id>
+      <masked>false</masked>
+      <name>Urutkan</name>
+   </variable>
+</TestCaseEntity>

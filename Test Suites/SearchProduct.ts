@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>SearchProduct</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>07417932-bb9b-4d14-9d49-4f58a5ea7de2</testSuiteGuid>
+   <testCaseLink>
+      <guid>0f26257d-a362-42f3-8d8f-dc095eef22af</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SoalNomorSatuATC</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>e8f68eea-0dce-4c3a-83a5-9d142a079367</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/SoalNomorSatuA</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>e8f68eea-0dce-4c3a-83a5-9d142a079367</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Search_Product</value>
+         <variableId>24604419-ff26-49b5-a1aa-4ea8d364306a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e8f68eea-0dce-4c3a-83a5-9d142a079367</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>c8e0e969-2298-4532-9081-ccceba832277</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e8f68eea-0dce-4c3a-83a5-9d142a079367</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>06331aeb-7e2e-49ac-9efe-f5005427b2e6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e8f68eea-0dce-4c3a-83a5-9d142a079367</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Tambah_Brg_Product</value>
+         <variableId>516a3209-2cd6-4622-98e6-a7b899a1ccbc</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>e8f68eea-0dce-4c3a-83a5-9d142a079367</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Tambah_Brg_Chart</value>
+         <variableId>f16411fc-3937-4c21-abd5-af23466c3b16</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

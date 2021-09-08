@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Categories</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>f89328a9-4573-4cf8-a932-f8c8743b86f4</testSuiteGuid>
+   <testCaseLink>
+      <guid>f6acb98e-94ba-4194-9e24-8f069981b390</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SoalNomorSatuBTC</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>2834d53c-c379-45fb-90b2-badb49783a09</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/SoalNomorSatuB</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>2834d53c-c379-45fb-90b2-badb49783a09</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Sub_Menu</value>
+         <variableId>97603296-2526-482c-8e31-b50691ebec65</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>2834d53c-c379-45fb-90b2-badb49783a09</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Check_Merk</value>
+         <variableId>54d30174-4b31-4015-8341-e17279da6675</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>2834d53c-c379-45fb-90b2-badb49783a09</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Baris_Produk</value>
+         <variableId>44d4c8d3-d0e6-4357-a508-730f233fdae5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>2834d53c-c379-45fb-90b2-badb49783a09</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Urutkan</value>
+         <variableId>791303ab-0247-4a1f-b0f2-e7e047b854e8</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
